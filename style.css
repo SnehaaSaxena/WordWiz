@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(253, 240, 224);
+}
+
+.container{
+    height:630px;
+    width:600px;
+    margin-left:500px;
+    margin-top:60px;
+    border:2px solid rgb(61, 96, 252);
+}
+
+.searchBox{
+    width:600px;
+    margin-left:500px;
+    margin-top:40px;
+}
+
+.small-width{
+    width:50px !important;
+    padding:0 !important;
+    min-width:0 !important;
+    box-sizing:border-box;
+    overflow:hidden !important;
+}
